@@ -1,4 +1,4 @@
-# ✨ Gerald Ramirez
+# Gerald Ramirez ✨
 
 **`Digital Craftsman (Software Engineer / Full-Stack Developer)`**
 
@@ -30,6 +30,7 @@ I’m a passionate software engineer and indie full-stack developer from Costa R
 
 <br />
 
+
 <!-- #
 
 ### 📺 Latest YouTube Videos
@@ -44,8 +45,9 @@ I’m a passionate software engineer and indie full-stack developer from Costa R
 <!-- END YOUTUBE-CARDS -->
 
 <!-- [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1) -->
-
-<!-- # ss--> 
+<br />
+<!-- # ss-->
+ 
 
 ### 📊 Stats
 
