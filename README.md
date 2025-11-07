@@ -74,7 +74,8 @@ I’m a passionate software engineer and indie full-stack developer from Costa R
 ![GeraldRB's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeraldRB&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&count_private=true)
 
 <!-- Optional: GitHub Streak Card -->
-![GitHub Streak](https://streak-stats.demolab.com?user=GeraldRB&theme=tokyonight&border_radius=10)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GeraldRB&theme=tokyonight&border_radius=10)
+
 
 <!-- Optional: Most Used Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeraldRB&layout=compact&theme=tokyonight&hide_border=false&border_radius=10)
